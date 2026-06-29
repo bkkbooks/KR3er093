@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR3er093/v1
+canonical_location: https://kanripo.org/bkk/KR3er093/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 鱠殘篇
+  identifiers:
+    krp: KR3er093
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er093.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er093_000.yaml, hash: 'sha256:663558e71fe3b6cd0f963734756308c18899ef00d23c1684b5fe266b94181f5a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er093_000.markers.yaml, hash: 'sha256:749a5b6207ac2cbd8467936ab9155afac99fafae7851b1e7ce8814635ab7ff78'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3583
+  label: 秘授藥方須番察論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d2d14
+    span:
+    - body
+    - 1973
+    - 3583
+  label: 黃芩天花粉傳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d3.h1s1
+    span:
+    - body
+    - 3583
+    - 13893
+  label: 山會倪涵初先生瘧疾三方疏釋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d3d2
+    span:
+    - body
+    - 3596
+    - 3988
+  label: 第一方治夏秋暑濕瘧初平胃除濕理氣化滯有疏導開先之功受病輕者一二即愈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d3d3
+    span:
+    - body
+    - 3988
+    - 4177
+  label: 第二方治瘧法三四次後痰滯稍減正氣漸虧一二劑即可止住即極弱之人纏極重之症十劑後無不奏效
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er093_jc_000-d3d4
+    span:
+    - body
+    - 4177
+    - 13893
+  label: 第三方治久瘧虛弱並虛人患瘧扶正祛邪大有神效
+  type: section
+  level: 2
+hash: sha256:e462ddb1e08617ab20564c5d239264446f96a5a96b7fc6df88cb1da081922220
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
