@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er093_000.yaml, hash: 'sha256:663558e71fe3b6cd0f963734756308c18899ef00d23c1684b5fe266b94181f5a'}
+  - {seq: 0, filename: KR3er093_000.yaml, hash: 'sha256:f0c4e6ccf09e965047f28f99b2abf8d443c70ab0c61eb38f4c2d7eeb82e4d404'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er093_000.markers.yaml, hash: 'sha256:749a5b6207ac2cbd8467936ab9155afac99fafae7851b1e7ce8814635ab7ff78'}
+  - {seq: 0, role: markers, filename: assets/KR3er093_000.markers.yaml, hash: 'sha256:407d0a06ef4c02615098e4846e516e0af51dcc913de501096b9787d0937c8e30'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,4 @@ table_of_contents:
   label: 第三方治久瘧虛弱並虛人患瘧扶正祛邪大有神效
   type: section
   level: 2
-hash: sha256:e462ddb1e08617ab20564c5d239264446f96a5a96b7fc6df88cb1da081922220
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:478aea8183138768ed344a001f4485d8a161c08c8de0e809caf31a653ca2fa51
