@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er093_000.yaml, hash: 'sha256:20c0d78a3832bfcddf6c77e9ff95744d36ea75ca733c463e9b74be7bc2b3e3d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er093_000.markers.yaml, hash: 'sha256:30a9841a94c0b606643be00b6ab796668e91946a0dc0aec4c5b2fc58d551b2a9'}
+  - {seq: 0, role: markers, filename: assets/KR3er093_000.markers.yaml, hash: 'sha256:798233f8631fb997e378b44cb6c5a456a919ede8e443d6cd8a90b9ae141e7b86'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,7 +81,7 @@ table_of_contents:
   label: 第三方治久瘧虛弱並虛人患瘧扶正祛邪大有神效
   type: section
   level: 2
-hash: sha256:2babfd2509d7b5ee0f1d5d799b7130034b1a72ad7ae0956b1d091988644bca39
+hash: sha256:e5c8d2dcbfe1ed1718b774bd151b78244ec8a4a4739256d44238dc2318cb0420
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
